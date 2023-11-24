@@ -1,4 +1,5 @@
-Express.js App with Vanilla Frontend
+# Express.js App with Vanilla Frontend
+
 This project is a combination of an Express.js backend and a vanilla frontend. Follow the instructions below to set up and run the project.
 
 Getting Started
